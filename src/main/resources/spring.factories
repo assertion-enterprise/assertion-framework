@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  za.co.assertion.config.apidoc.SpringfoxAutoConfiguration,\
+  za.co.assertion.config.AssertionConfiguration,\
+  za.co.assertion.config.info.AssertionInfoContributorConfiguration,\
+  za.co.assertion.config.metric.AssertionMetricsEndpointConfiguration,\
+  za.co.assertion.security.ssl.UndertowSSLConfiguration,\
+  
